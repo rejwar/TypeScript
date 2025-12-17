@@ -12,5 +12,5 @@ const students = [
 
 for (const student of students) {
     console.log("Name: ", student.name);
-    console.log("Score :", student.grade);
+    // console.log("Score :", student.grade);
 }
