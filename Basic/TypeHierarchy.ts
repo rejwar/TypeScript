@@ -10,3 +10,4 @@ type check6 = function throwError(erroMessage:String) => {
 
 
 let strings: Object = ["a", "b"];
+let myFunction: Function = () = () => 2;
